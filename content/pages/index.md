@@ -16,7 +16,7 @@ sections:
     title: MNDWVE
     subtitle: >-
       This challenge is NOT for the weak-minded. You must rely on your senses,
-      your wit, and most importantly-your will. In the time you've take
+      your wit, and most importantly-your will.
     styles:
       self:
         height: auto
