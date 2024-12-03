@@ -14,7 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: MNDWVE
-    subtitle: This challenge is NOT for the weak-minded.
+    subtitle: >-
+      This challenge is NOT for the weak-minded. You must rely on your senses,
+      your wit, and most importantly-your will. In the time you've take
     styles:
       self:
         height: auto
