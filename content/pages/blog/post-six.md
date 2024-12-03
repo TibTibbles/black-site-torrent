@@ -14,7 +14,7 @@ bottomSections:
     type: RecentPostsSection
     colors: colors-f
     variant: variant-d
-    subtitle: Recent posts
+    subtitle: The Fall of Man
     showDate: true
     showAuthor: false
     showExcerpt: true
