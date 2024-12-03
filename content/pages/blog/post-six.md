@@ -4,7 +4,7 @@ title: MORTIS
 colors: colors-a
 date: '1998-02-01'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: ...
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
