@@ -2,7 +2,7 @@
 type: PostLayout
 title: MORTIS
 colors: colors-a
-date: ''
+date: '2024-02-03'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
